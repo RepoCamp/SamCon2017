@@ -1,0 +1,9 @@
+# Place any default configuration for solr_wrapper here
+version: '6.6.2'
+download_dir: /var/tmp
+# port: 8983
+instance_dir: tmp/solr-development
+collection:
+  persist: true
+  dir: solr/config/
+  name: hydra-development
