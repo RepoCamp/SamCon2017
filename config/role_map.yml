@@ -1,6 +1,8 @@
 development:
   archivist:
     - archivist1@example.com
+  admin:
+    - demo@curationexperts.com
 
 test:
   archivist:
